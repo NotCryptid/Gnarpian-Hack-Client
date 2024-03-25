@@ -1,0 +1,1 @@
+When using pms sprite, make sure the target project has fetch and storage extension installed
